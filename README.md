@@ -23,18 +23,3 @@ Features product catalog, cart, checkout flow, dark mode, and performance optimi
 
 ## ​ Live Demo
 [Visit Here](https://your-vercel-link.vercel.app)
-
-## ​ Repository
-[GitHub Repo](https://github.com/IAbhisek/nextshop-ecommerce)
-
----
-
-## ​ Screenshots
-*(Add Home, Product Detail, and Cart images)*
-
----
-
-## ​ Performance
-- Lighthouse Perf: **95+**
-- LCP: ~1.8s (on 4G)
-- Accessibility: **97**
